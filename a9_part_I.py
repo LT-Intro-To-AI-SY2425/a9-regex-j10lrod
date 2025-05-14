@@ -1,10 +1,10 @@
 import re
 
 # Assignment 8 Part I
-# in each of the problems below the first parameter to re.compile is "REPLACE ME" your
+# in each of the problems below the first  to re.compile is "REPLACE ME" your
 # job is to replace this text with a regular expression that behaves as described by the
 # comment and accompanying prints/tests
-
+parameter
 # problem 1
 # should extract a match where the first group is the month, the second group the day
 # and the third group the year
